@@ -1,1 +1,1 @@
-web: python3 -Dserver.port=$PORT main.py
+web: python3 main.py runserver 0.0.0.0:$PORT
