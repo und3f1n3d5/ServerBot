@@ -1,3 +1,1 @@
-web: python main.py
-web: errors.txt
-web: users.txt
+web: python3 main.py
