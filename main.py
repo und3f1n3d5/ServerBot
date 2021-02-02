@@ -2,7 +2,7 @@ import telebot
 #import time
 import datetime
 
-token = "1411772657:AAFkziVjMcehzkWDRWJyrnt7au7EBqDL9nQ"
+token = ""
 
 
 class BotHandler:
